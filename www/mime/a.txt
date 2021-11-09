@@ -1,4 +1,4 @@
-// this is a plain text json doc
+// http_demo this is a json.txt
 {
     "a":100,
     "b":[1,2,3,4],
